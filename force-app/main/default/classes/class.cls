@@ -25,7 +25,5 @@ public class classs {
     return 'Goodbye, ' + name + '! See you soon.';
 }
 
-    public static Boolean isStudentAdult(Integer age) {
-    return age >= 18;
-}
+    
 }
