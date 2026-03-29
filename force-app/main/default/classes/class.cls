@@ -1,7 +1,7 @@
 public class classs {
     
     public static void getStudentName(Id studentId) {
-       system.debug('Student Id is here you can check');
+       system.debug('Student Id is here you can check here: ' + studentId);
     }
     
     public static Integer getStudentAge(Integer birthYear) {
