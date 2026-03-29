@@ -24,4 +24,8 @@ public class classs {
     public static String getFarewell(String name) {
     return 'Goodbye, ' + name + '! See you soon.';
 }
+
+    public static Boolean isStudentAdult(Integer age) {
+    return age >= 18;
+}
 }
