@@ -20,4 +20,8 @@ public class classs {
         courses.add('Lightning Components');
         return courses;
     }
+
+    public static String getFarewell(String name) {
+    return 'Goodbye, ' + name + '! See you soon.';
+}
 }
