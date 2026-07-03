@@ -22,8 +22,5 @@ public class classs {
     }
 
     public static String getFarewell(String name) {
-    return 'check, ' + name + '! is it visible.';
-}
-
-    
+    return 'new, ' + name + ' soon.' 
 }
