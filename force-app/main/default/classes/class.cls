@@ -22,7 +22,7 @@ public class classs {
     }
 
     public static String getFarewell(String name) {
-    return 'hello, ' + name + '! See you finnaly.';
+    return 'check, ' + name + '! is it visible.';
 }
 
     
