@@ -22,6 +22,5 @@ public class classs {
     }
 
     public static String getFarewell(String name) {
-    return 'new, ' + name + ' soon.' ;
-}
+    return 'new, ' + name + ' soon.' 
 }
